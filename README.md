@@ -1,5 +1,5 @@
 <h2> Hi, I'm Jake Barnby! </h2>
-<img align='right' src="https://media.giphy.com/media/kz6cm1kKle2MYkHtJF/giphy.gif" width="265">
+<img align='right' src="https://media.giphy.com/media/kz6cm1kKle2MYkHtJF/giphy.gif" width="220">
 <p><em>Platforms Enginner at <a href="https://appwrite.io">Appwrite</a></br>Technical Project Manager at <a href="https://www.we-are-mea.com.com">MEA</a>
 </em></p>
 
