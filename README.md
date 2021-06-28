@@ -3,7 +3,7 @@
 <p><em>Platforms Enginner at <a href="https://appwrite.io">Appwrite</a></br>Technical Project Manager at <a href="https://www.we-are-mea.com.com">MEA</a>
 </em></p>
 
-[![Linkedin: Jake Barnby](https://img.shields.io/badge/-Jake%20Barnby-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jake-barnby-559602207/)](https://www.linkedin.com/in/jake-barnby-559602207/)
+[![Linkedin: Jake Barnby](https://img.shields.io/badge/-Jake%20Barnby-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jakebarnby/)](https://www.linkedin.com/in/jakebarnby/)
 [![GitHub abnegate](https://img.shields.io/github/followers/abnegate?label=follow&style=social)](https://github.com/abnegate)
 [![Appwrite](https://img.shields.io/badge/appwrite.io-f02e65?style=flat-square)](https://appwrite.io)
 
