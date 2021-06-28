@@ -1,6 +1,6 @@
 <h2> Hi, I'm Jake Barnby! </h2>
 <img align='right' src="https://media.giphy.com/media/kz6cm1kKle2MYkHtJF/giphy.gif" width="220">
-<p><em>Platforms Enginner at <a href="https://appwrite.io">Appwrite</a></br>Technical Project Manager at <a href="https://www.we-are-mea.com.com">MEA</a>
+<p><em>Platforms Enginner at <a href="https://appwrite.io">Appwrite</a></br>Technical Project Manager at <a href="https://we-are-mea.com">MEA</a>
 </em></p>
 
 [![Linkedin: Jake Barnby](https://img.shields.io/badge/-Jake%20Barnby-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jakebarnby/)](https://www.linkedin.com/in/jakebarnby/)
