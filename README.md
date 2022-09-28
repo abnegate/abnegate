@@ -9,22 +9,18 @@
 ### A little more about me...  
 
 ```kotlin
-val jake = Person().apply {
-  code = listOf("Kotlin", "Java", "C#", "Ruby", "Bash")
-  tools = listOf("Android", "Xamarin", "ASP.NET Core", "AWS", "Azure", "Everything else")
-  architechture = listOf("MVVM", "MVP", "MVC", "Microservices")
-  goals = listOf(Goal().apply {
-    description = "Build tools that developers love using."
-  })
+val jake = Developer(
+  codes = listOf("Kotlin", "Java", "PHP", "JavaScript", "C#", "Ruby", "Bash"),
+  tools = listOf("Android", "iOS", "Xamarin", ".NET", "Appwrite", "AWS", "Everything else"),
+  archs = listOf("MVVM", "MVP", "MVC", "Microservices"),
+  goals = listOf(
+    Goal("Build tools that developers love using.")
+  ),
   hobbies = listOf(
-    Hobby().apply { description = "Music" },
-    Hobby().apply { description = "Gaming" }, 
-    Hobby().apply { description = "Adventuring" }
+    Hobby("Music"),
+    Hobby("Gaming"), 
+    Hobby("Adventuring")
   )
-}
+)
 ```
-
-
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to talk!</b></em>
-
 ---
