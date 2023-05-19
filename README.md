@@ -1,6 +1,6 @@
 <h2> Hi, I'm Jake Barnby! </h2>
 <img align='right' src="https://media.giphy.com/media/kz6cm1kKle2MYkHtJF/giphy.gif" width="220">
-<p><em>Software Enginner at <a href="https://appwrite.io">Appwrite</a></em></p>
+<p><em>Engineering Lead at <a href="https://appwrite.io">Appwrite</a></em></p>
 
 [![Linkedin: Jake Barnby](https://img.shields.io/badge/-Jake%20Barnby-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jakebarnby/)](https://www.linkedin.com/in/jakebarnby/)
 [![GitHub abnegate](https://img.shields.io/github/followers/abnegate?label=follow&style=social)](https://github.com/abnegate)
